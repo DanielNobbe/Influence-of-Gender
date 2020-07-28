@@ -1,10 +1,12 @@
-# CDM Project Group 2
+This repository contains a project for the course Computational Dialogue Modelling, given at the University of Amsterdam 2019-2020. This project looks into calculating stylistic and lexical alignment in multi-party multi-gender dialogues using generalised linear models.
 
-This project looks into calculating stylistic and lexical alignment in multi-party multi-gender dialogues using generalised linear models.
+Authors: <br>
+• Eui Yeon Jang <br>
+• Daniel Nobbe <br>
+• Hannah Lim 
 
-## Gettin Started
-
-Make sure to activate the conda environment `cdm` (or first create one with `environment.yml`).
+## Getting started
+Make sure to activate the conda environment cdm (or first create one with environment.yml).
 
 ## Calculating Alignment
 To calculate stylistic alignment, run `stylistic.py` with the arguments for dataset and the type of experiment to perform. For example,
