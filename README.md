@@ -17,5 +17,5 @@ calculates performs Experiment 1 for stylistic alignment for the AMI dataset.
 
 It is also possible to perform Experiment 1 for stylistic alignment per linguistic category. To do so, set the `--cat` argument to `True`. 
 
-To calculate lexical alignment, run ` lexica.py` with the arguments for dataset and type of experiment, as before.
+To calculate lexical alignment, run ` lexical.py` with the arguments for dataset and type of experiment, as before.
 
